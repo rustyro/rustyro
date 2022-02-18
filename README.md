@@ -9,7 +9,7 @@
 
 ### About Me 🚀
 💻 Experienced software developer with over 8 years in the game who's very intrigued with everthing tech </br> </br>
-👨🏼‍💻 Currently working as a senior dev with [@hCaptcha](hcaptcha.com)</br></br>
+👨🏼‍💻 Currently working as a senior dev with [@hCaptcha](https://hcaptcha.com)</br></br>
 💬 Feel more than welcome to contact me if you want to teach me something new!</br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
@@ -19,8 +19,8 @@
   
 <div align="center">
   <a href="https://github.com/rustyro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustyro&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustyro&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustyro&show_icons=true&theme=gradient&include_all_commits=true&count_private=true" style="width: 44%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustyro&layout=compact&langs_count=7&theme=gradient" style="width: 53%;"/>
 </div>
 	
 ## ⚡ Technologies I love and use
