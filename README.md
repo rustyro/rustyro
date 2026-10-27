@@ -10,7 +10,7 @@
 ### About Me 🚀
 
 💻 Experienced software developer with over 8 years in the game who's very intrigued with everthing tech </br> </br>
-👨🏼‍💻 Currently working as a senior dev with [@hCaptcha](https://hcaptcha.com)</br></br>
+👨🏼‍💻 Currently working as a senior dev with [@GrowthLoop](https://growthloop.com)</br></br>
 💬 Feel more than welcome to contact me if you want to teach me something new!</br></br>
 
 <b><i>I truly believe that technology and software development has the power to change people's lives for the better.
